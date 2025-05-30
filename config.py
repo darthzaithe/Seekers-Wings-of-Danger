@@ -1,0 +1,15 @@
+# config.py
+
+# Window Settings
+
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+FRAMERATE_CAP = 60
+
+# Colors
+MENU_COLOR_SELECTED = (255, 255, 255)
+MENU_COLOR_UNSELECTED = (100, 100, 100)
+
+# Temporary Colors for non-spite entities
+ENEMY_COLOR = (200, 50, 50)
+PROJECTILE_COLOR = (255, 255, 0)
